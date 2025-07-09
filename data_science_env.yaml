@@ -1,0 +1,14 @@
+name: data_science_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - plotly
+  - numpy
+  - seaborn
+  - requests
+  - jupyter
+  - ipykernel
