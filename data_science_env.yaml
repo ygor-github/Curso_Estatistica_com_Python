@@ -1,4 +1,4 @@
-name: data_science_env
+name: data_science
 channels:
   - defaults
   - conda-forge
